@@ -6,7 +6,7 @@
 #    By: afrasch <afrasch@student.42.fr>            +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2021/07/21 20:04:08 by afrasch           #+#    #+#              #
-#    Updated: 2021/10/30 11:24:45 by afrasch          ###   ########.fr        #
+#    Updated: 2022/03/12 18:26:52 by afrasch          ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -24,7 +24,7 @@ ft_putstr.c \
 
 OBJ = $(SRC:.c=.o)
 
-LIBRARY = ./libft
+LIBRARY = ./my_lib
 
 CC = gcc
 
